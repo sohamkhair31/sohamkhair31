@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soham</h1>
 - 🔭 I’m currently working **On Gui Project Using Java**
 
-- 💬 Ask me about **C++ , Java**
+- 💬 Ask me about C++ , Java
 
 - 📫 How to reach me **khairsoham11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sohamkhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohamkhair" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sohamkhair](https://www.linkedin.com/in/soham-khair-290826278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohamkhair" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
