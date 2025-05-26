@@ -12,19 +12,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href='https://github.com/shivamkapasia0' target="_blank">
-  <img alt='Java' src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=Java&logoColor=F70F0F&labelColor=DD1313&color=red'/>
+<a href='https://github.com/sohamkhair31' target="_blank">
+  <img alt='Java' width="20px" height="10px" src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=Java&logoColor=F70F0F&labelColor=DD1313&color=red'/>
 </a>
-<a href='https://github.com/shivamkapasia0' target="_blank">
+<a href='https://github.com/sohamkhair31' target="_blank">
   <img alt='Cpp' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=ADFF08'/>
 </a>
-<a href='https://github.com/shivamkapasia0' target="_blank">
+<a href='https://github.com/sohamkhair31' target="_blank">
   <img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=BB0CFF'/>
 </a>
-<a href='https://github.com/shivamkapasia0' target="_blank">
+<a href='https://github.com/sohamkhair31' target="_blank">
   <img alt='JDBC' src='https://img.shields.io/badge/JDBC-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=FFDE0B'/>
 </a>
-<a href='https://github.com/shivamkapasia0' target="_blank">
+<a href='https://github.com/sohamkhair31' target="_blank">
   <img alt='SQL' src='https://img.shields.io/badge/MYSQL-100000?style=for-the-badge&logo=SQL&logoColor=F70F0F&labelColor=DD1313&color=0C8BE7'/>
 </a>
 
