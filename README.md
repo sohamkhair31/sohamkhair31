@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=Java&logoColor=F70F0F&labelColor=DD1313&color=black'/></a>
+  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=Java&logoColor=F70F0F&labelColor=DD1313&color=red'/></a>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sohamkhair31" alt="Visitor Badge" />
