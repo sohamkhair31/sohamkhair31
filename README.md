@@ -15,7 +15,7 @@
 <p align="left">
   <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Java' src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=Java&logoColor=F70F0F&labelColor=DD1313&color=red'/></a>
   
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Cpp' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=ADFF08'/></a>
+<a align="left" href='https://github.com/shivamkapasia0' target="_blank"><img alt='Cpp' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=ADFF08'/></a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Cpp' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=BB0CFF'/></a>
 
