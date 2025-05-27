@@ -1,32 +1,13 @@
-<h1 align="center">Hi 👋, I'm Soham</h1>
-- 🔭 I’m currently working **On Gui Project Using Java**
+# 💫 About Me:
+I'm a passionate Computer Engineering student with a keen interest in software development and problem-solving. Welcome to my GitHub!<br><br><br>I'm currently honing my skills in various programming paradigms and actively working on projects that challenge me to learn and grow. My goal is to leverage technology to create efficient and impactful solutions.
 
-- 💬 Ask me about C++ , Java
 
-- 📫 How to reach me **khairsoham11@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohamkhair) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khairsoham11@gmail.com) 
 
-- 🔗https://sohamkhair31.github.io/My-Portfolio/
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/sohamkhair](https://www.linkedin.com/in/soham-khair-290826278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohamkhair" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<a href='https://github.com/sohamkhair31' target="_blank">
-  <img alt='Java' width="20px" height="10px" src='https://img.shields.io/badge/java-100000?style=for-the-badge&logo=Java&logoColor=F70F0F&labelColor=DD1313&color=red'/>
-</a>
-<a href='https://github.com/sohamkhair31' target="_blank">
-  <img alt='Cpp' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=ADFF08'/>
-</a>
-<a href='https://github.com/sohamkhair31' target="_blank">
-  <img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=BB0CFF'/>
-</a>
-<a href='https://github.com/sohamkhair31' target="_blank">
-  <img alt='JDBC' src='https://img.shields.io/badge/JDBC-100000?style=for-the-badge&logo=Cpp&logoColor=F70F0F&labelColor=DD1313&color=FFDE0B'/>
-</a>
-<a href='https://github.com/sohamkhair31' target="_blank">
-  <img alt='SQL' src='https://img.shields.io/badge/MYSQL-100000?style=for-the-badge&logo=SQL&logoColor=F70F0F&labelColor=DD1313&color=0C8BE7'/>
-</a>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sohamkhair31" alt="Visitor Badge" />
