@@ -1,15 +1,81 @@
-# 💫 About Me:
-I'm a passionate Computer Engineering student with a keen interest in software development and problem-solving. Welcome to my GitHub!<br><br><br>I'm currently honing my skills in various programming paradigms and actively working on projects that challenge me to learn and grow. My goal is to leverage technology to create efficient and impactful solutions.
+<h1 align="center">Hi 👋, I'm Soham Khair</h1>
+<h3 align="center">
+Computer Engineering Student • Software Developer • Backend-Focused Builder
+</h3>
+
+---
+
+## 🚀 About Me
+
+I am a **Computer Engineering student and software developer** focused on building
+**real-world, production-style applications** with clean backend logic and scalable architecture.
+
+I enjoy working on:
+- Backend systems & database design  
+- Flutter web & app development  
+- Firebase (Auth, Firestore, Emulator-based workflows)  
+- Secure admin panels and optimized data access  
+
+---
+
+## 💼 Current Focus
+
+- 🧳 **Tourism Web Application (Mini SaaS)**
+- 🔐 Secure admin authentication & role-based access
+- ⚙️ Backend logic, data modeling & optimization
+- 🌱 Advanced DSA & system-thinking skills
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java  
+- C++  
+- C  
+
+**Frameworks & Tools**
+- Flutter (Web & Mobile)
+- Firebase (Auth, Firestore, Emulator Suite)
+- MySQL
+- JDBC
+
+**Practices**
+- Git & GitHub  
+- Emulator-only development (no prod key exposure)
+- Clean architecture & modular design
+
+---
+
+## 📌 Featured Project
+
+### 🧳 Tourism Web App
+**Flutter • Firebase • Firestore**
+
+- Guest browsing with OTP login at booking stage
+- Secure admin dashboard
+- Optimized Firestore reads (no unnecessary listeners)
+- Booking logic based on seat capacity & availability
+- Modular UI / logic separation
+- Client-safe local setup using Firebase Emulators
+
+---
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohamkhair31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khairsoham11@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-<a href='https://github.com/sohamkhair31' target="_blank"><img alt='JDBC' src='https://img.shields.io/badge/JDBC-100000?style=for-the-badge&logo=JDBC&logoColor=white&labelColor=black&color=10D3B6'/></a>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://linkedin.com/in/sohamkhair31">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+  </a>
+  <a href="mailto:khairsoham11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red" />
+  </a>
+</p>
+
+
+⭐ *I believe in learning by building — and building things that actually work.*
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sohamkhair31" alt="Visitor Badge" />
