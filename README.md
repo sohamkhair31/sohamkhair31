@@ -1,81 +1,137 @@
-<h1 align="center">Hi 👋, I'm Soham Khair</h1>
+<h1 align="center">Hi 👋, I'm Soham Sanjay Khair</h1>
 <h3 align="center">
-Computer Engineering Student • Software Developer • Backend-Focused Builder
+Flutter Developer • Backend-Oriented Builder • Computer Engineering Student
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Computer Engineering student and software developer** focused on building
-**real-world, production-style applications** with clean backend logic and scalable architecture.
+I am a Computer Engineering student focused on building **structured, scalable, and production-style applications**.
 
-I enjoy working on:
-- Backend systems & database design  
-- Flutter web & app development  
-- Firebase (Auth, Firestore, Emulator-based workflows)  
-- Secure admin panels and optimized data access  
+I work primarily with **Flutter + Firebase ecosystems**, applying strong backend logic, MVC architecture, and optimization techniques to create maintainable systems.
+
+I believe in:
+- Clean architecture over quick hacks  
+- Backend efficiency over unnecessary complexity  
+- Building real systems, not just demo apps  
+- Using AI tools (GPT, Gemini, LLMs) responsibly to enhance development productivity  
 
 ---
 
-## 💼 Current Focus
+## 💼 Professional Experience
 
-- 🧳 **Tourism Web Application (Mini SaaS)**
-- 🔐 Secure admin authentication & role-based access
-- ⚙️ Backend logic, data modeling & optimization
-- 🌱 Advanced DSA & system-thinking skills
+### Freelance Full Stack Developer (1 Year – Ongoing)
+
+- Delivered complete application solutions from system design to deployment  
+- Designed structured backend flows using MVC principles  
+- Implemented secure authentication and optimized database operations  
+- Managed hosting, performance tuning, and client-side deployment  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### 👨‍💻 Programming
 - Java  
-- C++  
-- C  
+- Dart  
 
-**Frameworks & Tools**
-- Flutter (Web & Mobile)
-- Firebase (Auth, Firestore, Emulator Suite)
-- MySQL
-- JDBC
+### 📱 Frontend
+- Flutter (Web & Mobile)  
+- HTML  
+- CSS  
 
-**Practices**
+### 🗄 Backend & Databases
+- Firebase (Auth, Firestore, Emulator Suite)  
+- MySQL  
+- Supabase  
+- REST API Integration  
+- Backend Optimization  
+
+### 🧱 Architecture & Engineering Practices
+- MVC Pattern  
+- Modular Code Structure  
+- Secure Authentication Flow  
+- Optimized Database Reads  
+- AI-Assisted Development Workflow  
+
+### 🔧 Tools
 - Git & GitHub  
-- Emulator-only development (no prod key exposure)
-- Clean architecture & modular design
+- IntelliJ IDEA  
+- VS Code  
+- Android Studio  
 
 ---
 
-## 📌 Featured Project
-
-### 🧳 Tourism Web App
-**Flutter • Firebase • Firestore**
-
-- Guest browsing with OTP login at booking stage
-- Secure admin dashboard
-- Optimized Firestore reads (no unnecessary listeners)
-- Booking logic based on seat capacity & availability
-- Modular UI / logic separation
-- Client-safe local setup using Firebase Emulators
+## 📌 Featured Projects
 
 ---
 
+### 🧳 Tourism Booking Platform  
+**Flutter • Firebase • MVC Architecture**
 
+🔗 Live: https://kokantourism-68299.web.app/
+
+- Complete booking system with vehicle, hotel, and tour modules  
+- Structured using MVC architecture  
+- Firebase authentication & real-time backend integration  
+- Optimized backend reads and response time  
+- Independent end-to-end project execution  
+
+---
+
+### 🏗 Plantrix – 2D & 3D Floor Builder  
+**Flutter • Three.js • Web Deployment**
+
+🔗 Repository: https://github.com/sohamkhair31/3d_editor_by_soham  
+🔗 Live Deployment: https://sohamkhair31.github.io/3d_editor_by_soham/
+
+- 2D floor planning with interactive 3D visualization  
+- Three.js integration for real-time rendering  
+- Web-based 3D module to reduce mobile application load  
+- Rendering workflow optimization for performance  
+
+---
+
+## 🏆 Achievements
+
+- 🥉 Secured Third Rank – State Level Hackathon  
+  Velneshwar Engineering College  
+
+---
+
+## 📜 Certifications
+
+- Object-Oriented Programming using Java – Simplilearn  
+- Java Certification – OneRoadMap  
+
+---
+
+## 🌱 Currently Improving
+
+- Advanced Data Structures & Algorithms  
+- Backend System Design Thinking  
+- Scalable Application Architecture  
+- Performance Optimization Strategies  
+
+---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sohamkhair31">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
-  </a>
   <a href="mailto:khairsoham11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red" />
   </a>
+  <a href="https://github.com/sohamkhair31">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black" />
+  </a>
 </p>
 
+---
 
-⭐ *I believe in learning by building — and building things that actually work.*
+<p align="center">
+⭐ I focus on building systems that are structured, optimized, and ready for real-world usage.
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sohamkhair31" alt="Visitor Badge" />
