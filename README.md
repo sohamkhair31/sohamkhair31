@@ -70,7 +70,7 @@ I believe in:
 ### 🧳 Tourism Booking Platform  
 **Flutter • Firebase • MVC Architecture**
 
-🔗 Live: https://kokantourism-68299.web.app/
+🔗 Live: https://kokan-tourism.web.app/
 
 - Complete booking system with vehicle, hotel, and tour modules  
 - Structured using MVC architecture  
